@@ -1,0 +1,13 @@
+{
+  "shell_port": 41187,
+  "iopub_port": 41939,
+  "stdin_port": 33167,
+  "control_port": 51689,
+  "hb_port": 58629,
+  "ip": "127.0.0.1",
+  "key": "aa9ebc8a-2547e48292b1b3e1b31e27f5",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/lutekhus/Untitled.ipynb"
+}
