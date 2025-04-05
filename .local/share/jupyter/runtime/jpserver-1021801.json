@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/lutekhus/",
+  "hostname": "127.0.0.1",
+  "password": false,
+  "pid": 1021801,
+  "port": 45893,
+  "root_dir": "/home/lutekhus",
+  "secure": false,
+  "sock": "",
+  "token": "bec2c426543b410da050e026bebe54a3",
+  "url": "http://127.0.0.1:45893/user/lutekhus/",
+  "version": "2.15.0"
+}
